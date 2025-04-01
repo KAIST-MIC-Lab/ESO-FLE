@@ -5,7 +5,7 @@
 Publication: IEEE
 
 > [!Note]
-> This paper is accepted in __IEEE 33th International Symposium on Industrial Electronics (ISIE) 2024__. 
+> This paper is accepted in __IEEE 33rd International Symposium on Industrial Electronics (ISIE) 2024__. 
 
 You can find papers here:
 
